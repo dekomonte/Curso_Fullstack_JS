@@ -1,6 +1,6 @@
 # Curso_Fullstack_JS
 Repositório do Curso Fullstack JavaScript da OneBiteCode. 
 
-Conteúdos
+#### Conteúdos
 
-[ ] - Fundamentos de HTML
+- [ ] Fundamentos de HTML (em andamento)
