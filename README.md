@@ -3,4 +3,7 @@ Repositório do Curso Fullstack JavaScript da OneBiteCode.
 
 #### Conteúdos
 
-- [ ] Fundamentos de HTML (em andamento)
+- [ ] HTML 5
+- [ ] CSS 3
+- [ ] JavaScript
+
